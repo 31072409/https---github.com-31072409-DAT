@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "154c4815-1121-467f-9159-efe8480935e9",
+		"name": "2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "2",
+			"item": [
+				{
+					"name": "2",
+					"request": {
+						"method": "get",
+						"url": "get"
+					},
+					"response": [
+						{
+							"name": "2",
+							"originalRequest": {
+								"method": "POST",
+								"url": "get"
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

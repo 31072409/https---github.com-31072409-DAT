@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "771370af-78b9-431b-8e37-e41a3f61bb43",
+		"name": "collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "folder",
+			"item": [
+				{
+					"name": "request",
+					"request": {
+						"method": "get",
+						"url": "get"
+					},
+					"response": [
+						{
+							"name": "response",
+							"originalRequest": {
+								"method": "get",
+								"url": "get"
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
